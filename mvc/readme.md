@@ -11,3 +11,6 @@ see: https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/existing-db
 
 How to design
 see: https://stackoverflow.com/questions/9881790/how-to-design-viewmodel
+
+Binding dynamic views
+https://www.wiliam.com.au/wiliam-blog/asp-net-mvc-5-view-model-collection-binding
