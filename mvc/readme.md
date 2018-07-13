@@ -14,3 +14,6 @@ see: https://stackoverflow.com/questions/9881790/how-to-design-viewmodel
 
 Binding dynamic views
 https://www.wiliam.com.au/wiliam-blog/asp-net-mvc-5-view-model-collection-binding
+
+Passing params
+https://andrewlock.net/passing-variables-to-a-view-component/
