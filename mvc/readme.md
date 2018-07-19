@@ -17,3 +17,7 @@ https://www.wiliam.com.au/wiliam-blog/asp-net-mvc-5-view-model-collection-bindin
 
 Passing params
 https://andrewlock.net/passing-variables-to-a-view-component/
+
+
+### Identity
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/scaffold-identity?view=aspnetcore-2.1&tabs=visual-studio
