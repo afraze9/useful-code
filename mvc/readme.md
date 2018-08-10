@@ -21,3 +21,4 @@ https://andrewlock.net/passing-variables-to-a-view-component/
 
 ### Identity
 https://docs.microsoft.com/en-us/aspnet/core/security/authentication/scaffold-identity?view=aspnetcore-2.1&tabs=visual-studio
+https://stackoverflow.com/questions/50749519/windows-authentication-asp-net-core-2-database-role-authorization  (windows auth for auth - roles from db)
