@@ -6,6 +6,11 @@ Scaffold-DbContext "Server=(localdb)\mssqllocaldb;Database=Blogging;Trusted_Conn
 ```
 see: https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/existing-db?view=aspnetcore-2.1
 
+#### EF CORE Initial Create - Migrations
+
+How to 'update-database' with initial migrations history
+https://stackoverflow.com/questions/43687433/update-database-command-is-not-working-in-asp-net-core-entity-framework-6-beca
+
 
 ### Viewmodels
 
